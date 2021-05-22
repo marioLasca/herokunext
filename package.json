@@ -7,7 +7,7 @@
     "dev": "next",
     "build": "next build",
     "start": "next start -p $PORT",
-    "heroku-postbuild" : "npm run buld"
+    "heroku-postbuild" : "npm run build"
   },
   "keywords": [],
   "author": "",
