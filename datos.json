@@ -1,0 +1,91 @@
+{
+
+    "users" : {
+        "mjlasluisa@gmail.com " : [
+            {
+                "name" : "Mario Lasluisa",
+                "empresa" : "Nivel digital",
+                "phone" : "+573016734525",
+                "pass" : "1234"
+            }
+        ]
+    },
+    "portfolios" : [
+        {
+            "mjlasluisa@gmail.com" : 
+            [
+                {
+                    "id" : "1",
+                    "name" : "Corte de Pelo Hombre",
+                    "category" : "Cortes",
+                    "value" : 5500,
+                    "imgurl" : "http://4.bp.blogspot.com/-_TicjjgcwvU/Vk1CGjmGnmI/AAAAAAAAChk/XMiNHNQazCM/s1600/bolg.png"
+                },
+                {
+                    "id" : "2",
+                    "name" : "Corte de Pelo Mujer",
+                    "category" : "Cortes",
+                    "value" : 10000,
+                    "imgurl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJO0urDWRyad-NLXszoI_-ZOS8Kv1lRDUrm6mI8Ic9uGYSdnbldqrMCmpwSMVj2YO1OAg&usqp=CAU"
+                },
+                {
+                    "id" : "3",
+                    "name" : "Corte de Pelo Niño",
+                    "category" : "Cortes",
+                    "value" : 3000,
+                    "imgurl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUQT2zvdo0-1jfsVZeG0Ss5ks8ldc3nta70M6e9vtrb-HNK2h9-yLx4PmHB8csfMA4BpA&usqp=CAU"
+                },
+                {
+                    "id" : "4",
+                    "name" : "Manicure",
+                    "category" : "Uñas",
+                    "value" : 7000,
+                    "imgurl" : "https://i.pinimg.com/564x/91/13/c9/9113c9c935c5bb6e68e4fdb07027df4c.jpg"
+                },
+                {
+                    "id" : "5",
+                    "name" : "Pedicure",
+                    "category" : "Uñas",
+                    "value" : 10000,
+                    "imgurl" : "https://t1.salir.ltmcdn.com/es/articles/1/2/0/img_las_peluquerias_de_moda_de_madrid_21_600.jpg"
+                },
+                {
+                    "id" : "6",
+                    "name" : "Tratamiento uñas",
+                    "category" : "Uñas",
+                    "value" : 15000,
+                    "imgurl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJO0urDWRyad-NLXszoI_-ZOS8Kv1lRDUrm6mI8Ic9uGYSdnbldqrMCmpwSMVj2YO1OAg&usqp=CAU"
+                },
+                {
+                    "id": 10,
+                    "name":"Pedicure con humectante",
+                    "category" :"Uñas",
+                    "value": 20000,
+                    "imgurl" : "https://i.pinimg.com/564x/91/13/c9/9113c9c935c5bb6e68e4fdb07027df4c.jpg"
+                },
+                {
+                    "id" : "7",
+                    "name" : "Maquillaje Cara",
+                    "category" : "Maquillaje",
+                    "value" : 5500,
+                    "imgurl" : "https://marketingtriplea.com/imagenes/puntos-clave-para-digitalizar-tu-peluqueria-con-exito.jpg"
+                },
+                {
+                    "id" : "8",
+                    "name" : "Semipermanente",
+                    "category" : "Maquillaje",
+                    "value" : 5500,
+                    "imgurl" : "https://t1.salir.ltmcdn.com/es/articles/1/2/0/img_las_peluquerias_de_moda_de_madrid_21_600.jpg"
+                },
+                {
+                    "id" : "9",
+                    "name" : "Pigmentación",
+                    "category" : "Maquillaje",
+                    "value" : 5500,
+                    "imgurl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJO0urDWRyad-NLXszoI_-ZOS8Kv1lRDUrm6mI8Ic9uGYSdnbldqrMCmpwSMVj2YO1OAg&usqp=CAU"
+                }
+            ]
+                        
+        }
+    ]
+}
